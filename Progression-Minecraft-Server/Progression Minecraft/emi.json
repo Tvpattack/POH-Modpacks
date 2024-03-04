@@ -1,0 +1,763 @@
+{
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "alexscaves:amber",
+        "amount": 32
+      }
+    },
+    {
+      "stack": "item:cyclic:shield_wood{Damage:0}"
+    },
+    {
+      "stack": "item:cyclic:solidifier"
+    },
+    {
+      "stack": "item:cyclic:ender_item_shelf"
+    },
+    {
+      "stack": "item:paraglider:paraglider",
+      "recipe": "paraglider:paraglider"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "divinerpg:bloodgem_ore",
+        "amount": 2
+      }
+    },
+    {
+      "stack": "item:aether:altar"
+    },
+    {
+      "stack": "item:nethersdelight:blackstone_stove"
+    },
+    {
+      "stack": "item:cyclic:flippers{Damage:0}",
+      "recipe": "cyclic:flippers"
+    },
+    {
+      "stack": "item:farmersdelight:cooking_pot",
+      "recipe": "farmersdelight:cooking_pot"
+    },
+    {
+      "stack": "item:supplementaries:planter",
+      "recipe": "supplementaries:planter_rich"
+    },
+    {
+      "stack": "item:farmersdelight:stove",
+      "recipe": "farmersdelight:stove"
+    },
+    {
+      "stack": "item:cyclic:prospector{Damage:0}",
+      "recipe": "cyclic:prospector"
+    },
+    {
+      "stack": "item:cyclic:slingshot{Damage:0}",
+      "recipe": "cyclic:slingshot"
+    },
+    {
+      "stack": "item:waystones:warp_stone{Damage:0}",
+      "recipe": "waystones:warp_stone"
+    },
+    {
+      "stack": "item:divinerpg:purple_glowbone"
+    },
+    {
+      "stack": "item:divinerpg:purple_blaze"
+    },
+    {
+      "stack": "item:cyclic:generator_fuel",
+      "recipe": "cyclic:generator_fuel"
+    },
+    {
+      "stack": "item:divinerpg:frost_cannon{Damage:0}",
+      "recipe": "divinerpg:shaped/frost_cannon"
+    },
+    {
+      "stack": "item:divinerpg:shadow_bow{Damage:0}",
+      "recipe": "divinerpg:shaped/shadow_bow"
+    },
+    {
+      "stack": "item:cyclic:charm_boostpotion{Damage:0}"
+    },
+    {
+      "stack": "item:cyclic:generator_food"
+    },
+    {
+      "stack": "item:cyclic:melter"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:fire_charge",
+        "amount": 3
+      },
+      "recipe": "minecraft:fire_charge"
+    },
+    {
+      "stack": "item:cyclic:hopper",
+      "recipe": "cyclic:hopper"
+    },
+    {
+      "stack": "item:cyclic:hopper_fluid"
+    },
+    {
+      "stack": "item:cyclic:charm_stone{Damage:0}",
+      "recipe": "cyclic:charm_stone"
+    }
+  ],
+  "lookup_history": [
+    "item:divinerpg:molten_stone",
+    {
+      "type": "item",
+      "id": "minecraft:blaze_powder",
+      "amount": 4
+    },
+    "item:minecraft:potion{Potion:\"minecraft:awkward\"}",
+    "item:minecraft:pufferfish",
+    "item:cyclic:charm_boostpotion{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:blaze_rod",
+      "amount": 3
+    },
+    "item:alexscaves:fissile_core",
+    "item:alexscaves:uranium_rod",
+    "item:cyclic:lunchbox{count_empty:4,count_max:7,holding:0b}",
+    "item:cyclic:apple_ender",
+    "item:minecraft:end_crystal",
+    "item:divinerpg:skeleman_helmet{Damage:135}",
+    {
+      "type": "item",
+      "id": "minecraft:bone",
+      "amount": 4
+    },
+    "item:cyclic:apple_lapis",
+    "item:minecraft:fermented_spider_eye",
+    {
+      "type": "item",
+      "id": "cyclic:gem_amber",
+      "amount": 2
+    },
+    "item:cyclic:hopper_fluid",
+    "item:cyclic:hopper",
+    {
+      "type": "fluid",
+      "id": "cyclic:magma",
+      "amount": 100
+    },
+    "item:cyclic:melter",
+    "item:cyclic:generator_fluid",
+    "item:cyclic:wireless_fluid",
+    "item:cyclic:cask",
+    "item:cyclic:fluid_pipe",
+    "item:cyclic:tank",
+    {
+      "type": "item",
+      "id": "minecraft:rotten_flesh",
+      "amount": 31
+    },
+    "item:cyclic:honey_bucket",
+    {
+      "type": "fluid",
+      "id": "cyclic:honey",
+      "amount": 500
+    },
+    "item:minecraft:fire_charge",
+    "item:divinerpg:kraken_skin",
+    "item:divinerpg:kraken_scale",
+    {
+      "type": "item",
+      "id": "minecraft:ink_sac",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:magma_block",
+      "amount": 3
+    },
+    "item:minecraft:redstone_torch",
+    "item:cyclic:generator_food",
+    "item:minecraft:target",
+    "item:cyclic:compressed_cobblestone",
+    "item:cyclic:prospector{Damage:0}",
+    "item:waystones:warp_stone{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:ender_pearl",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "deep_aether:roseroot_planks",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:stick",
+      "amount": 2
+    },
+    "item:divinerpg:shadow_bar",
+    {
+      "type": "item",
+      "id": "divinerpg:arlemite_ingot",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "divinerpg:rupee_ingot",
+      "amount": 2
+    },
+    "item:divinerpg:ice_stone",
+    "item:divinerpg:gray_diamond_chunk",
+    {
+      "type": "item",
+      "id": "minecraft:andesite",
+      "amount": 10
+    },
+    "item:divinerpg:corrupted_cannon",
+    "item:divinerpg:corrupted_helmet{Damage:0}",
+    "item:divinerpg:corrupted_chestplate{Damage:0}",
+    "item:cyclic:chorus_spectral",
+    "item:divinerpg:altar_of_corruption",
+    "item:minecraft:copper_block",
+    {
+      "type": "item",
+      "id": "minecraft:copper_ingot",
+      "amount": 19
+    },
+    "item:minecraft:waxed_copper_block",
+    "item:divinerpg:shadow_bow{Damage:0}",
+    "item:minecraft:calcite",
+    "item:minecraft:raw_copper_block",
+    {
+      "type": "item",
+      "id": "minecraft:raw_copper",
+      "amount": 64
+    },
+    "item:cyclic:sleeping_mat{Damage:0}",
+    "item:divinerpg:teleportation_star{Damage:0}",
+    "item:divinerpg:teleportation_crystal{Damage:0}",
+    "item:aether:aether_portal_frame",
+    "item:minecraft:cake",
+    {
+      "type": "item",
+      "id": "divinerpg:donut",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:sugar",
+      "amount": 6
+    },
+    "item:farmersdelight:milk_bottle",
+    "item:cyclic:milk_bottle",
+    "item:divinerpg:cheese",
+    "item:minecraft:milk_bucket",
+    "item:miners_delight:milk_cup",
+    "item:waystones:sandy_waystone",
+    "item:minecraft:sand",
+    "item:minecraft:sandstone",
+    "item:cyclic:apple_iron",
+    "item:cyclic:apple_honey",
+    {
+      "type": "item",
+      "id": "farmersdelight:honey_cookie",
+      "amount": 8
+    },
+    "item:minecraft:campfire",
+    "item:cyclic:crafting_bag",
+    {
+      "type": "item",
+      "id": "minecraft:apple",
+      "amount": 3
+    },
+    "item:travelersbackpack:standard{}",
+    {
+      "type": "item",
+      "id": "minecraft:rose_bush",
+      "amount": 2
+    },
+    "item:minecraft:shears{Damage:1,Powers:[{Hidden:0b,Negative:0b,Power:\"origins-classes:items/effecient_digger\",Slot:\"mainhand\"}]}",
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball",
+      "amount": 44
+    },
+    {
+      "type": "item",
+      "id": "minecraft:cobblestone",
+      "amount": 38
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:beef_patty",
+      "amount": 14
+    },
+    "item:farmersdelight:cooked_bacon",
+    {
+      "type": "item",
+      "id": "farmersdelight:bacon",
+      "amount": 4
+    },
+    "item:farmersdelight:stove",
+    "item:lost_aether_content:power_gloves{Damage:0}",
+    "item:divinerpg:aquastrive_chestplate{Damage:0}",
+    "item:divinerpg:kraken_chestplate{Damage:0}",
+    "item:divinerpg:kraken_helmet{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:glass_bottle",
+      "amount": 3
+    },
+    "item:cyclic:generator_fuel",
+    "item:minecraft:repeater",
+    "item:minecraft:coal_block",
+    "item:minecraft:piston",
+    "item:cyclic:generator_solar",
+    "item:aetherdelight:bowl_of_blue_berries",
+    "item:cyclic:eye_redstone",
+    "item:cyclic:generator_item",
+    "item:cyclic:solidifier",
+    "item:cyclic:ender_item_shelf",
+    "item:cyclic:obsidian_pressure_plate",
+    "item:minecraft:honeycomb",
+    "item:cyclic:shears_flint{Damage:0}",
+    "item:divinerpg:infusion_table",
+    "item:divinerpg:pardimal_bow",
+    "item:divinerpg:quadrotic_bow",
+    "item:divinerpg:heliosis_bow",
+    "item:divinerpg:arksiane_bow",
+    "item:cyclic:laser_cannon",
+    "item:aetherdelight:bowl_of_enchanted_berries",
+    "item:aether:gingerbread_man",
+    "item:aetherdelight:bowl_of_ginger_cookies",
+    "item:alexscaves:dreadbow{Damage:0}",
+    "item:divinerpg:ender_stone",
+    "item:divinerpg:watching_eye",
+    "item:divinerpg:ender_bow",
+    "item:divinerpg:torridite_ingot",
+    "item:farmersdelight:egg_sandwich",
+    "item:divinerpg:inferno_bow{Damage:0}",
+    "item:minecraft:amethyst_shard",
+    {
+      "type": "item",
+      "id": "minecraft:flint",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "minecraft:oak_planks",
+      "amount": 4
+    },
+    "item:cyclic:slingshot{Damage:0}",
+    "item:cyclic:storage_bag{}",
+    "item:farmersdelight:straw",
+    "item:farmersdelight:organic_compost",
+    {
+      "type": "item",
+      "id": "farmersdelight:tree_bark",
+      "amount": 6
+    },
+    "item:aquaculture:wooden_fillet_knife{Damage:0}",
+    "item:cyclic:flippers{Damage:0}",
+    "item:farmersdelight:cooking_pot",
+    {
+      "type": "item",
+      "id": "aquaculture:worm",
+      "amount": 4
+    },
+    "item:supplementaries:planter",
+    "item:minecraft:bricks",
+    "item:minecraft:brick",
+    {
+      "type": "item",
+      "id": "minecraft:mud_bricks",
+      "amount": 4
+    },
+    "item:minecraft:packed_mud",
+    {
+      "type": "item",
+      "id": "minecraft:mud",
+      "amount": 3
+    },
+    "item:aquaculturedelight:neptunium_knife{Damage:0}",
+    "item:farmersdelight:cutting_board",
+    "item:deep_aether:rotten_roseroot_log",
+    {
+      "type": "item",
+      "id": "miners_delight:vegan_patty",
+      "amount": 2
+    },
+    "item:miners_delight:baked_cave_carrot",
+    {
+      "type": "item",
+      "id": "miners_delight:cave_carrot",
+      "amount": 7
+    },
+    "item:nethersdelight:blackstone_stove",
+    "item:minecraft:brewing_stand",
+    "item:deep_aether:lightcap_mushrooms",
+    {
+      "type": "item",
+      "id": "minecraft:torch",
+      "amount": 27
+    },
+    "item:minecraft:string",
+    "item:minecraft:saddle",
+    "item:cyclic:stirrups{Damage:0}",
+    "item:aether:altar",
+    "item:aether:nature_staff{Damage:0}",
+    {
+      "type": "item",
+      "id": "aether:zanite_gemstone",
+      "amount": 4
+    },
+    "item:aether:icestone",
+    "item:aether:iron_ring",
+    "#item:aether:freezable_rings",
+    "item:aether:freezer",
+    "item:deep_aether:aerglow_blossom_block",
+    {
+      "type": "item",
+      "id": "aether:aechor_petal",
+      "amount": 2
+    },
+    "item:aether:blue_berry",
+    {
+      "type": "item",
+      "id": "minecraft:dark_oak_planks",
+      "amount": 4
+    },
+    "item:divinerpg:white_mushroom",
+    "item:divinerpg:molten_sword{Damage:0}",
+    "item:travelersbackpack:backpack_tank",
+    {
+      "type": "item",
+      "id": "minecraft:gold_nugget",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:quartz",
+      "amount": 61
+    },
+    {
+      "type": "item",
+      "id": "minecraft:wheat",
+      "amount": 29
+    },
+    {
+      "type": "item",
+      "id": "minecraft:leather",
+      "amount": 12
+    },
+    {
+      "type": "item",
+      "id": "minecraft:baked_potato",
+      "amount": 26
+    },
+    {
+      "type": "item",
+      "id": "minecraft:pumpkin_pie",
+      "amount": 57
+    },
+    "item:miners_delight:copper_pot",
+    "item:nethersdelight:raw_stuffed_hoglin",
+    "item:divinerpg:arlemite_chestplate{Damage:0}",
+    "item:divinerpg:wither_reaper_chestplate{Damage:0}",
+    "item:divinerpg:skeleman_chestplate{Damage:0}",
+    "item:divinerpg:jack_o_man_chestplate{Damage:0}",
+    "item:divinerpg:santa_chestplate{Damage:0}",
+    "item:minecraft:smooth_basalt",
+    "item:minecraft:basalt",
+    "item:divinerpg:molten_lamp",
+    "item:divinerpg:molten_furnace",
+    "item:minecraft:wooden_shovel{Damage:0,Powers:[{Hidden:0b,Negative:0b,Power:\"origins-classes:items/effecient_digger\",Slot:\"mainhand\"}]}",
+    {
+      "type": "item",
+      "id": "cyclic:crate",
+      "amount": 2
+    },
+    "item:farmersdelight:pumpkin_slice",
+    {
+      "type": "item",
+      "id": "minecraft:mushroom_stew",
+      "amount": 5
+    },
+    "item:supplementaries:ash_bricks",
+    "item:supplementaries:ash_brick",
+    {
+      "type": "item",
+      "id": "minecraft:arrow",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:fried_egg",
+      "amount": 3
+    },
+    "item:aether:white_cape",
+    "item:minecraft:white_wool",
+    "item:mcwdoors:oak_western_door",
+    "item:paraglider:kakariko_goddess_statue",
+    "item:paraglider:goddess_statue",
+    "item:paraglider:rito_goddess_statue",
+    "item:paraglider:goron_goddess_statue",
+    "item:cyclic:shield_bone{Damage:0}",
+    "item:cyclic:shield_obsidian{Damage:0}",
+    "item:cyclic:shield_leather{Damage:0}",
+    "item:minecraft:shulker_shell",
+    "item:minecraft:shulker_box",
+    "item:divinerpg:bone_chest",
+    "item:cyclic:tile_transporter_empty",
+    "item:alexscaves:pewen_boat",
+    "item:waystones:waystone",
+    "item:minecraft:glow_berries",
+    "item:cyclic:flower_purple_tulip",
+    "item:divinerpg:teaker_cannon",
+    "item:divinerpg:serenade_of_death{Damage:0}",
+    "item:divinerpg:hunter_bow{Damage:0}",
+    "item:divinerpg:icicle_bow{Damage:0}",
+    "item:divinerpg:soulfire_bow",
+    "item:divinerpg:snowstorm_bow",
+    "item:divinerpg:eden_bow",
+    "item:divinerpg:wildwood_bow",
+    "item:divinerpg:apalachia_bow",
+    "item:divinerpg:skythern_bow",
+    "item:divinerpg:sound_of_music{Damage:0}",
+    "item:divinerpg:sound_of_carols{Damage:0}",
+    "item:divinerpg:sound_of_whales{Damage:0}",
+    "item:divinerpg:shuriken",
+    "item:divinerpg:vile_storm",
+    "item:divinerpg:crabclaw_cannon{Damage:0}",
+    "item:divinerpg:cyclopsian_staff{Damage:0}",
+    "item:divinerpg:frost_cannon{Damage:0}",
+    "item:divinerpg:fractite_cannon{Damage:0}",
+    "item:divinerpg:ghast_cannon{Damage:0}",
+    "item:divinerpg:apalachia_blitz",
+    "item:divinerpg:skythern_blitz",
+    "item:divinerpg:mortum_blitz",
+    "item:divinerpg:skythern_soul",
+    "item:divinerpg:skythern_fragments",
+    "item:divinerpg:skythern_gem",
+    "item:divinerpg:skythern_slicer",
+    "item:divinerpg:maelstrom{Damage:0}",
+    "item:divinerpg:teaker_disk",
+    "item:divinerpg:teaker_dissipator",
+    "item:divinerpg:aquatic_ingot",
+    "item:divinerpg:shark_fin",
+    "item:divinerpg:whale_fin",
+    "item:divinerpg:aquatic_pellets",
+    {
+      "type": "item",
+      "id": "minecraft:wheat_seeds",
+      "amount": 64
+    },
+    "item:cyclic:glowing_helmet{Damage:0}",
+    "item:aether:zanite_helmet{Damage:0}",
+    "item:deep_aether:skyjade_helmet{Damage:0}",
+    "item:aether:gravitite_helmet{Damage:0}",
+    "item:deep_aether:stratus_helmet{Damage:0}",
+    "item:aether:neptune_helmet{Damage:0}",
+    "item:divinerpg:wither_reaper_helmet{Damage:0}",
+    "item:divinerpg:jack_o_man_helmet{Damage:0}",
+    "item:divinerpg:torridite_helmet{Damage:0}",
+    "item:divinerpg:inferno_helmet{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:chest",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:dripstone_block",
+      "amount": 2
+    },
+    "item:aquaculture:iron_hook",
+    "item:aquaculture:heavy_hook",
+    "item:aquaculture:tackle_box",
+    "item:aquaculture:neptunium_block",
+    "item:aquaculture:neptunes_bounty",
+    "item:aquaculture:oak_fish_mount",
+    "item:minecraft:oak_fence",
+    "#item:minecraft:wooden_fences",
+    "item:aquaculture:worm_farm",
+    "item:cyclic:soil",
+    "item:cyclic:terra_preta",
+    "item:divinerpg:yellow_steel",
+    "item:divinerpg:yellow_diamond_chunk",
+    {
+      "type": "item",
+      "id": "farmersdelight:onion",
+      "amount": 32
+    },
+    "item:divinerpg:ice_shards",
+    {
+      "type": "item",
+      "id": "minecraft:pointed_dripstone",
+      "amount": 9
+    },
+    "item:cyclic:shield_wood{Damage:0}",
+    "item:cyclic:shield_flint{Damage:0}",
+    {
+      "type": "item",
+      "id": "farmersdelight:bone_broth",
+      "amount": 5
+    },
+    "item:alexscaves:amber_curiosity",
+    "item:alexscaves:amber_monolith"
+  ],
+  "craft_history": [
+    "divinerpg:shaped/inferno_bow",
+    "minecraft:blaze_powder",
+    "divinerpg:shaped/molten_stone",
+    "cyclic:apple_honey",
+    "minecraft:honey_block",
+    "divinerpg:shaped/lava_lamp",
+    "minecraft:iron_pickaxe",
+    "cyclic:copper_axe",
+    "minecraft:cherry_door",
+    "cyclic:charm_boostpotion",
+    "cyclic:apple_lapis",
+    "minecraft:fermented_spider_eye",
+    "cyclic:hopper_fluid",
+    "cyclic:hopper",
+    "minecraft:cherry_slab",
+    "minecraft:cherry_planks",
+    "minecraft:redstone_block",
+    "cyclic:melter",
+    "cyclic:generator_food",
+    "minecraft:redstone_torch",
+    "cyclic:copper_nugget",
+    "minecraft:target",
+    "minecraft:stick",
+    "minecraft:hay_block",
+    "divinerpg:shapeless/white_mushroom_seeds",
+    "cyclic:prospector",
+    "cyclic:compressed_cobblestone",
+    "minecraft:light_blue_stained_glass",
+    "minecraft:light_blue_dye_from_blue_white_dye",
+    "minecraft:white_dye",
+    "minecraft:blue_dye",
+    "waystones:waystone",
+    "minecraft:stone_bricks",
+    "waystones:warp_stone",
+    "minecraft:raw_iron",
+    "minecraft:arrow",
+    "minecraft:dark_oak_planks",
+    "divinerpg:shaped/shadow_bow",
+    "divinerpg:shapeless/shadow_bar",
+    "minecraft:torch",
+    "minecraft:iron_axe",
+    "cyclic:emerald_sword",
+    "minecraft:diamond_pickaxe",
+    "aether:diamond_gloves",
+    "minecraft:diamond_boots",
+    "minecraft:diamond_leggings",
+    "cyclic:emerald_leggings",
+    "cyclic:emerald_chestplate",
+    "cyclic:crafting/amethyst",
+    "cyclic:copper_pickaxe",
+    "minecraft:amethyst_block",
+    "cyclic:copper_shovel",
+    "minecraft:furnace",
+    "farmersdelight:cake_from_milk_bottle",
+    "minecraft:sugar_from_sugar_cane",
+    "farmersdelight:milk_bottle",
+    "minecraft:cake",
+    "cyclic:shapeless/milk_bottle",
+    "minecraft:bucket",
+    "miners_delight:copper_cup",
+    "cyclic:apple_sprout",
+    "divinerpg:shaped/skeleton_torch",
+    "minecraft:oak_trapdoor",
+    "minecraft:oak_planks",
+    "minecraft:bone_meal",
+    "mcwfurnitures:oak_covered_desk",
+    "minecraft:campfire",
+    "farmersdelight:stove",
+    "minecraft:bricks",
+    "minecraft:glass_bottle",
+    "cyclic:solidifier",
+    "cyclic:obsidian_pressure_plate",
+    "minecraft:stone_pressure_plate",
+    "minecraft:shears",
+    "minecraft:blackstone_slab",
+    "farmersdelight:egg_sandwich",
+    "minecraft:chest",
+    "minecraft:wooden_pickaxe",
+    "minecraft:crafting_table",
+    "cyclic:flint_block",
+    "minecraft:wooden_axe",
+    "minecraft:bread",
+    "cyclic:slingshot",
+    "farmersdelight:iron_knife",
+    "aquaculture:wooden_fillet_knife",
+    "minecraft:packed_mud",
+    "aether:skyroot_shovel",
+    "farmersdelight:cutting_board",
+    "aether:skyroot_iron_vanilla_shield",
+    "paraglider:paraglider",
+    "aether:nature_staff",
+    "aether:altar",
+    "aether:holystone_pickaxe",
+    "aether:skyroot_stick",
+    "aether:freezer",
+    "aether:ambrosium_torch",
+    "aether:holystone_axe",
+    "aether:skyroot_planks",
+    "minecraft:dark_oak_boat",
+    "cyclic:crate",
+    "minecraft:gold_ingot_from_nuggets",
+    "minecraft:jungle_door",
+    "minecraft:jungle_planks",
+    "minecraft:shield",
+    "cyclic:lunchbox",
+    "minecraft:iron_chestplate",
+    "aether:golden_gloves",
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:golden_leggings",
+    "minecraft:gold_ingot_from_gold_block",
+    "miners_delight:copper_pot",
+    "minecraft:wooden_shovel",
+    "minecraft:iron_bars",
+    "minecraft:bow",
+    "paraglider:cosmetic/kakariko_goddess_statue",
+    "minecraft:hopper",
+    "minecraft:birch_planks",
+    "cyclic:crafting_stick",
+    "minecraft:sandstone",
+    "aether:skyroot_boat",
+    "deep_aether:skyroot_crafting_table",
+    "aether:skyroot_hoe",
+    "minecraft:cherry_trapdoor",
+    "minecraft:cherry_stairs",
+    "mcwdoors:oak_barn_door",
+    "aether:skyroot_stairs",
+    "aether:skyroot_axe",
+    "minecraft:stone_axe",
+    "aquaculture:worm_farm",
+    "minecraft:oak_fence",
+    "minecraft:stone_hoe",
+    "minecraft:stone_shovel",
+    "minecraft:acacia_planks",
+    "minecraft:spruce_planks",
+    "minecraft:oak_boat",
+    "minecraft:stone_pickaxe",
+    "cyclic:shield_wood",
+    "aether:skyroot_pickaxe"
+  ],
+  "recipe_defaults": {
+    "added": [
+      "aquaculture:worm_farm",
+      "cyclic:shield_wood"
+    ],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

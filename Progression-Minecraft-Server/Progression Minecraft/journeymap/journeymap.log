@@ -1,0 +1,139 @@
+[22:35:26] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[22:35:26] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[22:35:26] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[22:35:26] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[22:35:26] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[22:35:26] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: me.frankv.jmi.JMIJourneyMapPlugin
+[22:35:26] [Render thread/DEBUG] [JourneymapClient] Loading and Generating Journeymap configs
+[22:35:26] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:35:27] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.9.18, built with forge 1.20.1-47.1.46
+forge: 47.2.17
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.9.18, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-132, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.9.18, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9.18, zoomLevel=1, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.18, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.18, port=8080, enabled=false}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.18, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.18, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeKeyEvents
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChatEvents
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeHudOverlayEvents
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeWorldEvent
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChunkEvents
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeClientTickEvent
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeRenderLevelLastEvent
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeLoggedInEvent
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeTextureStitchedEvent
+[22:35:27] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgePopupCustomEvents
+[22:35:27] [Render thread/DEBUG] [StatTimer] elapsed was slow: 1839.8693
+[22:35:27] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 1839.87ms
+[22:36:04] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[22:36:04] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[22:36:04] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
+[22:36:06] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[22:36:06] [Render thread/DEBUG] [StatTimer] elapsed was slow: 1712.5984
+[22:36:06] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 1712.6ms
+[22:38:31] [Thread-4/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[22:38:31] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[22:38:31] [Thread-4/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[22:42:22] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.9.18": journeymap.server.global.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.global.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.9.18": journeymap.server.default.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.default.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Initialized) Setting config file to version "5.9.18": journeymap.server.minecraft~overworld.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.minecraft~overworld.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~arcana (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~arcana.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~arcana (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~arcana.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~vethea (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~vethea.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~vethea (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~vethea.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Initialized) Setting config file to version "5.9.18": journeymap.server.minecraft~the_end.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.minecraft~the_end.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~eden (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~eden.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~eden (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~eden.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~mortum (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~mortum.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~mortum (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~mortum.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] deeperdarker~otherside (Initialized) Setting config file to version "5.9.18": journeymap.server.deeperdarker~otherside.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] deeperdarker~otherside (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.deeperdarker~otherside.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Initialized) Setting config file to version "5.9.18": journeymap.server.minecraft~the_nether.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.minecraft~the_nether.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~apalachia (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~apalachia.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~apalachia (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~apalachia.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~skythern (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~skythern.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~skythern (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~skythern.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~wildwood (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~wildwood.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~wildwood (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~wildwood.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~iceika (Initialized) Setting config file to version "5.9.18": journeymap.server.divinerpg~iceika.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] divinerpg~iceika (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.divinerpg~iceika.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] aether~the_aether (Initialized) Setting config file to version "5.9.18": journeymap.server.aether~the_aether.config
+[22:42:22] [Server thread/INFO] [PropertiesBase] aether~the_aether (Valid) Creating config file: C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\server\5.9\journeymap.server.aether~the_aether.config
+[22:42:44] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:42:44] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[22:42:44] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\data\sp\Testing Your Mum\waypoints
+[22:42:44] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\data\sp\Testing Your Mum\overworld. Memory: 2048MB total, 703MB free 
+[22:42:44] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
+[22:42:45] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/jack_o_man.png
+[22:43:22] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/brown_trout.png
+[22:43:22] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/bluegill.png
+[22:43:22] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/smallmouth_bass.png
+[22:43:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/carp.png
+[22:43:56] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/muskellunge.png
+[22:43:56] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/pumpkin_spider.png
+[22:43:56] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/cyclops.png
+[22:44:04] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/perch.png
+[22:44:12] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/minnow.png
+[22:44:20] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/aequorea_yellow.png
+[22:44:20] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/aequorea_red.png
+[22:44:20] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/gar.png
+[22:44:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/kobblin.png
+[22:44:42] [JM-task-4/WARN] [StatTimer] SurfaceRenderer.renderSurface was slow: 1862.8646 (Warning limit reached)
+[22:44:42] [JM-task-4/WARN] [StatTimer] SurfaceRenderer.renderSurface: Avg:   100.94ms, Min:    13.47ms, Max:    4946.64ms, Total:         89 sec, Count:      887, Canceled:        0, Slow:       10
+[22:44:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/aequorea_blue.png
+[22:44:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/aequorea_pink.png
+[22:46:13] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/aequorea_green.png
+[22:46:46] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/miner.png
+[22:47:04] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/pollock.png
+[22:47:04] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/atlantic_herring.png
+[22:47:09] [Render thread/WARN] [JMLogger] Can't get entityTexture for divinerpg:textures/entity_icon/aequorea_purple.png
+[22:47:09] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/jellyfish.png
+[22:47:09] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/atlantic_halibut.png
+[22:47:46] [JM-task-4/ERROR] [JMLogger] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "player" is null
+	at TRANSFORMER/alexscaves@1.0.9/com.github.alexmodguy.alexscaves.server.level.biome.ACBiomeRegistry.calculateBiomeSkyOverride(ACBiomeRegistry.java:123)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.multiplayer.ClientLevel.handler$chd000$alexscaves$ac_getSkyDarken_timeOfDay(ClientLevel.java:4106)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.multiplayer.ClientLevel.m_104805_(ClientLevel.java:620)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.Stratum.setChunkMd(Stratum.java:175)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.Stratum.set(Stratum.java:67)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.Strata.push(Strata.java:156)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.Strata.push(Strata.java:138)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.render.SurfaceRenderer.buildStrata(SurfaceRenderer.java:418)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.render.SurfaceRenderer.renderSurface(SurfaceRenderer.java:219)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:123)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:93)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.cartography.ChunkRenderController.renderChunk(ChunkRenderController.java:169)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.task.multi.BaseMapTask.performTask(BaseMapTask.java:125)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.task.multi.TaskBatch.performTask(TaskBatch.java:72)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch.performTask(MapPlayerTask.java:424)
+	at TRANSFORMER/journeymap@5.9.18/journeymap.client.thread.RunnableTask$Inner.run(RunnableTask.java:77)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[22:47:46] [JM-task-4/WARN] [BaseRenderer] Bad block at 8,0,10. Total bad blocks: 1
+[22:47:46] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tvpat\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\journeymap\data\mp\offline\minecraft:overworld
+[22:47:47] [JM-task-4/ERROR] [JMLogger] java.lang.NullPointerException
+
+[22:47:47] [JM-task-4/ERROR] [JMLogger] java.lang.NullPointerException
+
+[22:47:47] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@54697591
+[22:48:46] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs

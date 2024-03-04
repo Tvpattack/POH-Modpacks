@@ -1,0 +1,22 @@
+{
+  "id": "Amethyst-Geode_-58-27-731",
+  "name": "Amethyst Geode",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12779100-waypoint-icon.png",
+  "x": -58,
+  "y": -27,
+  "z": -731,
+  "r": 61,
+  "g": 1,
+  "b": 164,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

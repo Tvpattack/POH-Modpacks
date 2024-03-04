@@ -1,0 +1,22 @@
+{
+  "id": "Realmite_-31-3-1132",
+  "name": "Realmite",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9694627-waypoint-icon.png",
+  "x": -31,
+  "y": -3,
+  "z": -1132,
+  "r": 108,
+  "g": 18,
+  "b": 93,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

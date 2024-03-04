@@ -1,0 +1,1279 @@
+2024-03-03 22:31:56,657 main WARN Advanced terminal features are not available in this environment
+[22:31:57] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, {MINECRAFT_USERNAME}, --version, 1.20.1, --gameDir, C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft, --assetsDir, C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\assets, --assetIndex, 5, --uuid, {MINECRAFT_UUID}, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 1440, --height, 854, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.17, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[22:31:57] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Azul Systems, Inc.; OS Windows 11 arch amd64 version 10.0
+[22:32:05] [main/INFO] [ne.mi.fm.lo.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[LWJGL] Version: 3.3.1 build 7
+[LWJGL] 	 OS: Windows 11 v10.0
+[LWJGL] 	JRE: Windows amd64 17.0.9
+[LWJGL] 	JVM: OpenJDK 64-Bit Server VM v17.0.9+8-LTS by Azul Systems, Inc.
+[LWJGL] Loading JNI library: lwjgl
+[LWJGL] 	Module: org.lwjgl
+[LWJGL] 	Loaded from org.lwjgl.librarypath: C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\natives\1.20.1-1.20.1-47.2.17\lwjgl.dll
+[LWJGL] Loading library: glfw
+[LWJGL] 	Module: org.lwjgl.glfw
+[LWJGL] 	Loaded from org.lwjgl.librarypath: C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\natives\1.20.1-1.20.1-47.2.17\glfw.dll
+[22:32:07] [main/ERROR] [EARLYDISPLAY/]: WARNING : glfwInit took 1.591954 seconds to start.
+[22:32:07] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[22:32:08] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[LWJGL] Loading library: jemalloc
+[LWJGL] 	Module: org.lwjgl.jemalloc
+[LWJGL] 	Loaded from org.lwjgl.librarypath: C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\natives\1.20.1-1.20.1-47.2.17\jemalloc.dll
+[LWJGL] MemoryUtil allocator: JEmallocAllocator
+[LWJGL] Loading JNI library: lwjgl_stb
+[LWJGL] 	Module: org.lwjgl.stb
+[LWJGL] 	Loaded from org.lwjgl.librarypath: C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\natives\1.20.1-1.20.1-47.2.17\lwjgl_stb.dll
+[LWJGL] Java 10 memcpy enabled
+[LWJGL] Java 9 check intrinsics enabled
+[LWJGL] Closure Registry: simple
+[LWJGL] Loading JNI library: lwjgl_opengl
+[LWJGL] 	Module: org.lwjgl.opengl
+[22:32:08] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[22:32:09] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[LWJGL] 	Loaded from org.lwjgl.librarypath: C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\natives\1.20.1-1.20.1-47.2.17\lwjgl_opengl.dll
+[LWJGL] Loading library: opengl32
+[LWJGL] 	Module: org.lwjgl.opengl
+[LWJGL] 	opengl32.dll not found in org.lwjgl.librarypath=C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\natives\1.20.1-1.20.1-47.2.17
+[LWJGL] 	Loaded from system paths: C:\WINDOWS\SYSTEM32\opengl32.dll
+[LWJGL] Java 10 multiplyHigh enabled
+[22:32:09] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[LWJGL] [GL] OpenGL46 was reported as available but an entry point is missing.
+[LWJGL] Java 9 text decoding enabled
+[22:32:09] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: Intel(R) UHD Graphics GL version 4.6.0 - Build 30.0.101.1122, Intel
+[22:32:09] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/{COMPUTER_USERNAME}/AppData/Roaming/com.modrinth.theseus/profiles/Progression%20Minecraft/mods/Connector-1.0.0-beta.36+1.20.1.jar%23234%23237!/ Service=ModLauncher Env=CLIENT
+[22:32:13] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.17\fmlcore-1.20.1-47.2.17.jar is missing mods.toml file
+[22:32:14] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.17\javafmllanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[22:32:14] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.17\lowcodelanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[22:32:14] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.17\mclanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[22:32:18] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22:32:18] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: aeroblender. Using Mod File: C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\mods\aeroblender-1.20.1-1.0.1-neoforge.jar
+[22:32:18] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 69 dependencies adding them to mods collection
+[22:32:26] [main/INFO] [de.su.si.co.lo.DependencyResolver/]: Dependency resolution found 0 candidates to load
+[22:32:35] [main/INFO] [de.su.si.co.se.ha.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[22:32:45] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22:32:48] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[22:32:48] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft, --assetsDir, C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\assets, --uuid, {MINECRAFT_UUID}, --username, {MINECRAFT_USERNAME}, --assetIndex, 5, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 1440, --height, 854]
+[22:32:50] [main/WARN] [mixin/]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:32:51] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:32:53] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:33:02] [main/WARN] [mixin/]: Error loading class: net/raphimc/immediatelyfast/feature/map_atlas_generation/MapAtlasTexture (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.map_atlas_generation.MapAtlasTexture)
+[22:33:04] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[22:33:04] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found origins_classes.mixins.json:common.apotheosis.ApotheosisEnchantmentMenuMixin from mod origins_classes
+[22:33:04] [main/WARN] [mixin/]: Error loading class: se/mickelus/tetra/blocks/workbench/WorkbenchTile (java.lang.ClassNotFoundException: se.mickelus.tetra.blocks.workbench.WorkbenchTile)
+[22:33:04] [main/WARN] [mixin/]: @Mixin target se.mickelus.tetra.blocks.workbench.WorkbenchTile was not found origins_classes.mixins.json:common.tetra.WorkbenchTileMixin from mod origins_classes
+[22:33:06] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/client/map/UpdateChunkFromServerTask (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.client.map.UpdateChunkFromServerTask)
+[22:33:06] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.client.map.UpdateChunkFromServerTask was not found jmi.mixins.json:UpdateFromServerTaskMixin from mod jmi
+[22:33:11] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[22:33:11] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[22:33:13] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[22:33:14] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[22:33:52] [Datafixer Bootstrap/INFO] [mojang/DataFixerBuilder]: 188 Datafixer optimizations took 1927 milliseconds
+[22:33:58] [pool-4-thread-1/INFO] [mixin/]: apoli.mixins.json:ItemSlotArgumentTypeAccessor from mod apoli->@Accessor[FIELD_GETTER]::getSlotNamesToSlotCommandId()Ljava/util/Map; should be static as its target is
+[22:34:02] [Render thread/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/C:/Users/{COMPUTER_USERNAME}/AppData/Roaming/com.modrinth.theseus/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23316!/assets/.mcassetsroot' uses unexpected schema
+[22:34:02] [Render thread/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/C:/Users/{COMPUTER_USERNAME}/AppData/Roaming/com.modrinth.theseus/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23316!/data/.mcassetsroot' uses unexpected schema
+[22:34:02] [Render thread/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:34:04] [Render thread/INFO] [minecraft/Minecraft]: Setting user: {MINECRAFT_USERNAME}
+[22:34:05] [Render thread/INFO] [minecraft/Options]: Added resource packs: []
+[22:34:05] [Render thread/INFO] [minecraft/Minecraft]: Backend library: LWJGL version 3.3.1 build 7
+[LWJGL] [GL] OpenGL46 was reported as available but an entry point is missing.
+[22:34:11] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22:34:11] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22:34:11] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22:34:11] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22:34:11] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22:34:11] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22:34:11] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[22:34:13] [modloading-worker-0/INFO] [me.fa.fa.FastIpPingMod/]: ping & connect fast!
+[22:34:15] [modloading-worker-0/INFO] [io.gi.ap.or.Origins/]: Origins 1.20.1-1.10.0.5 is initializing. Have fun!
+[22:34:15] [modloading-worker-0/INFO] [me.we.se.co.ServerCore/]: [ServerCore] Loaded V1.3.9+1.20.1!
+[22:34:16] [modloading-worker-0/INFO] [de.li.or.OriginsClasses/]: Origins:Classes 1.2.1 has initialized. Time for work!
+[22:34:20] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[22:34:21] [modloading-worker-0/INFO] [de.ar.ne.fo.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22:34:21] [modloading-worker-0/INFO] [te.de.DeepAetherMod/]: Deep Aether: Registering Aether Lost Content compat items
+[22:34:21] [modloading-worker-0/INFO] [te.de.DeepAetherMod/]: Deep Aether: Registering Aether Lost Content compat items
+[22:34:21] [modloading-worker-0/INFO] [watermedia/ForgeModLoader]: Starting...
+[22:34:21] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Running 'WATERMeDIA' on 'Forge'
+[22:34:22] [modloading-worker-0/INFO] [watermedia/Bootstrap]: WaterMedia version '2.0.27-beta'
+[22:34:22] [modloading-worker-0/WARN] [watermedia/Bootstrap]: Environment was init, don't need to worry about anymore
+[22:34:22] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Starting modules
+[22:34:22] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Loading AssetsCore
+[22:34:22] [modloading-worker-0/INFO] [watermedia/AssetsCore]: Extracting VLC...
+[22:34:22] [modloading-worker-0/INFO] [watermedia/AssetsCore]: Extraction cancelled, config file matches with JAR config file
+[22:34:22] [modloading-worker-0/INFO] [watermedia/AssetsCore]: Extraction finished
+[22:34:22] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Loading CacheCore
+[22:34:22] [modloading-worker-0/INFO] [watermedia/CacheCore]: Mounted on path 'C:\Users\{COMPUTER_USERNAME}\AppData\Local\Temp\watermedia\cache\pictures'
+[22:34:22] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Loading ImageAPI
+[22:34:22] [modloading-worker-0/INFO] [watermedia/API]: Loading image resources in a ImageRenderer instance
+[22:34:24] [modloading-worker-0/INFO] [ne.fa.fa.im.cl.in.Indigo/]: [Indigo] Registering Indigo renderer!
+[22:34:26] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Loading UrlAPI
+[22:34:26] [modloading-worker-0/INFO] [watermedia/UrlAPI]: Loading URLFixer's
+[22:34:27] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Loading VideoLanCore
+[22:34:27] [modloading-worker-0/INFO] [io.gi.ap.ap.Apoli/]: Apoli 1.20.1-2.9.0.4 has initialized. Ready to power up your game!
+[22:34:27] [modloading-worker-0/INFO] [VLCJ/NativeDiscovery]: Searching on 'C:\Users\{COMPUTER_USERNAME}\AppData\Local\Temp\watermedia\videolan'
+[22:34:29] [modloading-worker-0/INFO] [ne.mi.co.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.17, for MC 1.20.1 with MCP 20230612.114412
+[22:34:29] [modloading-worker-0/INFO] [ne.mi.co.MinecraftForge/FORGE]: MinecraftForge v47.2.17 Initialized
+[22:34:33] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.2 initializing...
+[22:34:34] [modloading-worker-0/INFO] [Apugli/]: Apugli 2.9.1 has initialized. Powering up your powered up game.
+[22:34:34] [modloading-worker-0/INFO] [TooManyOrigins/]: TooManyOrigins 1.0.1 is initializing. Enjoy!
+[22:34:36] [modloading-worker-0/INFO] [watermedia/VideoLanCore]: Created new VLC instance from 'C:\Users\{COMPUTER_USERNAME}\AppData\Local\Temp\watermedia\videolan' with args: '[--quiet, --file-logging, --logmode=text, --logfile=C:\Users\{COMPUTER_USERNAME}\AppData\Local\Temp\watermedia\logs\videolan.log, --verbose=2, --aout={directsound,mmdevice,waveout}, --http-reconnect]'
+[22:34:36] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Startup finished
+[22:34:37] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22:34:42] [modloading-worker-0/INFO] [th.ko.te.KotlinForForge/]: Kotlin For Forge Enabled!
+[22:34:44] [modloading-worker-0/INFO] [di.DivineRPG/]: [DivineRPG] Registered events
+[22:34:45] [Render thread/INFO] [minecraft/RegistryDataLoader]: Capturing existing worldgen registries
+[22:34:45] [Render thread/INFO] [minecraft/RegistryDataLoader]: Found 0 injected RegistryDataLoader worldgen registries
+[22:34:51] [Render thread/INFO] [Moonlight/]: Initialized block sets in 99ms
+[22:34:56] [Render thread/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[22:34:56] [Render thread/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[22:34:56] [Render thread/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[22:34:56] [Render thread/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[22:34:57] [Render thread/INFO] [di.DivineRPG/]: [DivineRPG] Attached entity attributes
+[LWJGL] Loading library: OpenAL
+[LWJGL] 	Module: org.lwjgl.openal
+[LWJGL] 	Loaded from org.lwjgl.librarypath: C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\meta\natives\1.20.1-1.20.1-47.2.17\OpenAL.dll
+[22:34:58] [Render thread/INFO] [di.DivineRPG/]: registering block color handlers
+[22:34:58] [Render thread/INFO] [co.gi.al.al.AlexsCaves/]: loaded in item colorizer
+[22:35:00] [Render thread/INFO] [di.DivineRPG/]: [DivineRPG] Registered entity renders
+[22:35:01] [Render thread/INFO] [journeymap/]: Registering Keybinds
+[22:35:01] [Render thread/INFO] [minecraft/ReloadableResourceManager]: Reloading ResourceManager: vanilla, mod_resources, Moonlight Mods Dynamic Assets, fabric
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:divine. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:shiverspine. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:auroraoak. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:cozybark. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:streamleaf. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:eucalyptus. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:eden. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:wildwood. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:apalachia. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:skythern. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/ERROR] [Supplementaries/]: Failed to generate hanging sign extension texture for divinerpg:mortum. Could be that the target mod isnt registering their wood type properly
+[22:35:02] [Render thread/INFO] [Supplementaries/]: Generated runtime CLIENT_RESOURCES for pack Moonlight Mods Dynamic Assets (supplementaries) in: 678 ms
+[22:35:04] [Worker-Main-5/INFO] [minecraft/UnihexProvider]: Found unifont_all_no_pua-15.0.06.hex, loading
+[22:35:07] [Worker-Main-2/ERROR] [minecraft/Util]: Invalid path in pack: cyclic:textures/item/charm/CREDIT.txt, ignoring
+[22:35:08] [Worker-Main-2/ERROR] [minecraft/Util]: Invalid path in pack: miners_delight:textures/item/Lunchbox_fill.png, ignoring
+[22:35:08] [Worker-Main-2/ERROR] [minecraft/Util]: Invalid path in pack: miners_delight:textures/item/Lunchbox.png, ignoring
+[22:35:08] [Worker-Main-2/ERROR] [minecraft/Util]: Invalid path in pack: miners_delight:textures/item/Launchbox_fill.png, ignoring
+[22:35:08] [Worker-Main-2/ERROR] [minecraft/Util]: Invalid path in pack: miners_delight:textures/item/Launchbox.png, ignoring
+[22:35:11] [Worker-Main-6/WARN] [minecraft/SpriteLoader]: Texture divinerpg:model/sides with size 10x10 limits mip level from 4 to 1
+[22:35:14] [Worker-Main-6/WARN] [minecraft/SpriteContents]: Unused frames in sprite cyclic:block/magnet/mob_antimagnet_plate_front: [7]
+[22:35:15] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\config\divinerpg\divinerpg-common.toml is not correct. Correcting
+[22:35:15] [modloading-worker-0/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Common configs for DivineRPG.kitraProtected was corrected from [minecraft:salmon, minecraft:cod, minecraft:pufferfish, minecraft:squid, minecraft:tadpole, minecraft:turtle, divinerpg:shark, divinerpg:aequorea, divinerpg:whale, divinerpg:liopleurodon, minecraft:glow_squid, divinerpg:robbin] to its default, [minecraft:salmon, minecraft:cod, minecraft:pufferfish, minecraft:squid, minecraft:tadpole, minecraft:turtle, divinerpg:shark, divinerpg:aequorea, divinerpg:whale, divinerpg:liopleurodon, minecraft:glow_squid, divinerpg:robbin]. 
+[22:35:17] [Worker-Main-2/WARN] [minecraft/SpriteLoader]: Texture divinerpg:block/present_box_break with size 14x14 limits mip level from 4 to 1
+[22:35:17] [Worker-Main-2/WARN] [minecraft/SpriteLoader]: Texture divinerpg:item/the_grue_spawn_egg with size 17x16 limits mip level from 1 to 0
+[22:35:18] [Worker-Main-6/INFO] [di.DivineRPG/]: [DivineRPG] Registered triggers
+[22:35:19] [Worker-Main-7/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: me.frankv.jmi.JMIJourneyMapPlugin
+[22:35:19] [Worker-Main-7/INFO] [journeymap/]: Found @Ljourneymap/client/api/ClientPlugin;: net.blay09.mods.waystones.compat.JourneyMapIntegration
+THE_AETHER
+[OVERWORLD, NETHER, THE_AETHER]
+THE_AETHER
+THE_AETHER
+[OVERWORLD, NETHER, THE_AETHER]
+THE_AETHER
+[22:35:20] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[22:35:21] [Render thread/INFO] [Supplementaries/]: Finished mod setup in: [0, 6, 0, 7, 0, 11, 86, 15] ms
+[22:35:21] [Render thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:35:21] [Render thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22:35:21] [Render thread/INFO] [terrablender/]: Registered region aether:the_aether to index 0 for type THE_AETHER
+[22:35:21] [Render thread/INFO] [terrablender/]: Registered region deep_aether:deep_aether to index 1 for type THE_AETHER
+[22:35:22] [Render thread/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[22:35:22] [Render thread/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[22:35:22] [Render thread/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[22:35:22] [Render thread/INFO] [co.ti.tr.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[22:35:22] [Render thread/INFO] [journeymap/]: Initializing Packet Registries
+[22:35:22] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:35:22] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:35:22] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:35:22] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:35:22] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:35:22] [Render thread/INFO] [Moonlight/]: Initialized color sets in 146ms
+[22:35:23] [Worker-Main-6/INFO] [di.DivineRPG/]: [DivineRPG] Attached model properties
+[22:35:23] [Worker-Main-6/INFO] [di.DivineRPG/]: [DivineRPG] Registered screens
+[22:35:24] [Worker-Main-7/INFO] [jmi/]: Waystones integration loaded.
+[22:35:25] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.2.0-neoforge Target: null
+[22:35:25] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[22:35:25] [Render thread/INFO] [journeymap/]: Journeymap Initializing
+[22:35:25] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.1.9 Target: 20.1.9
+[22:35:25] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [lost_aether_content] Starting version check at http://changelogs.moddinglegacy.com/lost-content.json
+[22:35:26] [Render thread/INFO] [jmi/]: Initialized me.frankv.jmi.JMIJourneyMapPlugin
+[22:35:26] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [lost_aether_content] Found status: UP_TO_DATE Current: 1.2.3 Target: null
+[22:35:26] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[22:35:26] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[22:35:26] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[22:35:26] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.7.36 Target: null
+[22:35:26] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.0 Target: null
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 2.1.1 Target: null
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tipthescales] Starting version check at https://updates.blamejared.com/get?n=TipTheScales&gv=1.20.1
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [tipthescales] Found status: BETA Current: 9.0.0.1 Target: 9.0.0.1
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.0-neoforge Target: null
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.2.2 Target: null
+[22:35:27] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[22:35:27] [Render thread/WARN] [ne.mi.fm.DeferredWorkQueue/LOADING]: Mod 'journeymap' took 1.875 s to run a deferred task.
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [framework] Found status: BETA Current: 0.6.26 Target: 0.6.26
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [divinerpg] Starting version check at https://raw.githubusercontent.com/DivineRPG/DivineRPG-Assets/main/divinerpg_update.json
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [divinerpg] Found status: UP_TO_DATE Current: 1.10.7.3 Target: null
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [cyclic] Starting version check at https://raw.githubusercontent.com/Lothrazar/cyclic/trunk/1.20/update.json
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [cyclic] Found status: BETA Current: 1.12.6 Target: 1.12.4
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[22:35:28] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22:35:29] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.18 Target: null
+[22:35:29] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22:35:29] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.12 Target: null
+[22:35:29] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22:35:30] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.17 Target: 47.2.20
+[22:35:30] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[22:35:30] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.9.17 Target: null
+[22:35:30] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[22:35:31] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [iceberg] Found status: OUTDATED Current: 1.1.13 Target: 1.1.21
+[22:35:31] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[22:35:32] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.14 Target: null
+[22:35:32] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22:35:32] [Forge Version Check/INFO] [ne.mi.fm.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.0.15 Target: 8.1.17
+[22:35:32] [Worker-Main-4/WARN] [minecraft/ModelBakery]: Unable to load model: 'divinerpg:block/cobaltite_stone' referenced from: divinerpg:cobaltite_slab#type=top,waterlogged=true: java.io.FileNotFoundException: divinerpg:models/block/cobaltite_stone.json
+[22:35:32] [Worker-Main-4/WARN] [minecraft/ModelBakery]: Unable to load model: 'divinerpg:block/streamleaf_fence_gate_wall' referenced from: divinerpg:streamleaf_fence_gate#facing=north,in_wall=true,open=true,powered=true: java.io.FileNotFoundException: divinerpg:models/block/streamleaf_fence_gate_wall.json
+[22:35:38] [Worker-Main-4/WARN] [minecraft/ModelBakery]: Unable to load model: 'deeperdarker:sculk_tendrils_plant#inventory' referenced from: deeperdarker:sculk_tendrils_plant#inventory: java.io.FileNotFoundException: deeperdarker:models/item/sculk_tendrils_plant.json
+[22:35:38] [Worker-Main-4/WARN] [minecraft/ModelBakery]: Unable to load model: 'deeperdarker:sculk_vines_plant#inventory' referenced from: deeperdarker:sculk_vines_plant#inventory: java.io.FileNotFoundException: deeperdarker:models/item/sculk_vines_plant.json
+[22:35:38] [Worker-Main-4/WARN] [minecraft/ModelBakery]: Unable to load model: 'deeperdarker:otherside_portal#inventory' referenced from: deeperdarker:otherside_portal#inventory: java.io.FileNotFoundException: deeperdarker:models/item/otherside_portal.json
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:mortum_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/mortum_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:arlemite_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/arlemite_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:halite_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/halite_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:eden_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/eden_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:skythern_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/skythern_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:rupee_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/rupee_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:wildwood_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/wildwood_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:coalstone_brick_slab#type=top,waterlogged=false:
+    minecraft:textures/atlas/blocks.png:divinerpg:block/coalstone_brick
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:apalachia_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/apalachia_shield
+[22:36:01] [Worker-Main-4/WARN] [minecraft/ModelManager]: Missing textures in model divinerpg:realmite_shield#inventory:
+    minecraft:textures/atlas/blocks.png:divinerpg:shield/realmite_shield
+[22:36:03] [Worker-Main-4/INFO] [co.gi.al.al.AlexsCaves/]: Loaded emissive block models in 1913 ms
+[22:36:06] [Render thread/WARN] [ne.mi.fm.DeferredWorkQueue/LOADING]: Mod 'journeymap' took 1.719 s to run a deferred task.
+[22:36:32] [Render thread/INFO] [minecraft/Options]: Added resource packs: []
+[22:36:33] [Render thread/WARN] [minecraft/SoundEngine]: Missing sound for event: minecraft:item.goat_horn.play
+[22:36:33] [Render thread/WARN] [minecraft/SoundEngine]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[22:36:33] [Render thread/WARN] [minecraft/SoundEngine]: Missing sound for event: lost_aether_content:block.songstone.use
+[22:36:33] [Render thread/WARN] [minecraft/SoundEngine]: Missing sound for event: supplementaries:item.wrench.hit
+[22:36:33] [Render thread/WARN] [minecraft/SoundEngine]: Missing sound for event: alexscaves:abyssal_chasm_ambience_mood
+[22:36:33] [Render thread/INFO] [mojang/Library]: OpenAL initialized on device OpenAL Soft on Headphones (2- Synaptics Audio)
+[22:36:33] [Render thread/INFO] [minecraft/SoundEngine]: Sound engine started
+[22:36:34] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[22:36:36] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[22:36:36] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[22:36:36] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[22:36:36] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[22:36:39] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 1024x512x4 minecraft:textures/atlas/chest.png-atlas
+[22:36:39] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[22:36:39] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[22:36:39] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[22:36:39] [Render thread/WARN] [co.gi.al.al.AlexsCaves/]: Could not apply radiation glow layer to aether:whirlwind, has custom renderer that is not LivingEntityRenderer.
+[22:36:39] [Render thread/WARN] [co.gi.al.al.AlexsCaves/]: Could not apply radiation glow layer to aether:evil_whirlwind, has custom renderer that is not LivingEntityRenderer.
+[22:36:39] [Render thread/WARN] [co.gi.al.al.AlexsCaves/]: Could not apply radiation glow layer to deep_aether:quail, has custom renderer that is not LivingEntityRenderer.
+[22:36:39] [Render thread/WARN] [co.gi.al.al.AlexsCaves/]: Could not apply radiation glow layer to deep_aether:venomite, has custom renderer that is not LivingEntityRenderer.
+[22:36:39] [Render thread/WARN] [co.gi.al.al.AlexsCaves/]: Could not apply radiation glow layer to alexscaves:ferrouslime, has custom renderer that is not LivingEntityRenderer.
+[22:36:42] [Render thread/WARN] [minecraft/ShaderInstance]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[22:36:47] [Render thread/INFO] [co.gi.al.al.AlexsCaves/]: registered internal shaders
+[22:36:47] [Render thread/WARN] [minecraft/ShaderInstance]: Shader moonlight:text_alpha_color could not find uniform named FogStart in the specified shader program.
+[22:36:47] [Render thread/WARN] [minecraft/ShaderInstance]: Shader moonlight:text_alpha_color could not find uniform named FogEnd in the specified shader program.
+[22:36:47] [Render thread/WARN] [minecraft/ShaderInstance]: Shader moonlight:text_alpha_color could not find uniform named FogColor in the specified shader program.
+[22:36:48] [Render thread/WARN] [minecraft/EffectInstance]: Shader bumpy could not find uniform named OutSize in the specified shader program.
+[22:36:49] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 1024x1024x0 minecraft:textures/atlas/particles.png-atlas
+[22:36:49] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[22:36:50] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[22:36:50] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader preloaded 315 jsons
+[22:36:50] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 256x256x0 moonlight:textures/atlas/map_markers.png-atlas
+[22:36:58] [Render thread/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[22:36:58] [Render thread/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
+[22:36:58] [Render thread/INFO] [minecraft/MinecraftServer]: Found new data pack Supplementaries Generated Pack, loading it automatically
+[22:36:58] [Render thread/INFO] [minecraft/MinecraftServer]: Found new data pack T&T Waystone Patch Pack, loading it automatically
+[22:36:58] [Render thread/INFO] [minecraft/MinecraftServer]: Found new data pack builtin/aether_accessories, loading it automatically
+[22:36:58] [Render thread/INFO] [minecraft/MinecraftServer]: Found new data pack builtin/aether_lost_content_not_compat, loading it automatically
+[22:36:58] [Render thread/INFO] [minecraft/MinecraftServer]: Found new data pack builtin/lost_aether_content_compat, loading it automatically
+[22:36:58] [Render thread/INFO] [minecraft/MinecraftServer]: Found new data pack fabric, loading it automatically
+[22:36:58] [Render thread/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 173 ms
+[22:37:05] [Render thread/INFO] [Calio/]: CDRM Initialized with 16 registries
+[22:37:06] [Worker-Main-6/ERROR] [minecraft/TagLoader]: Couldn't load tag alexsmobs:skreechers_can_spawn_wardens as it is missing following references: deeperdarker:otherside (from deeperdarker-forge-1.20.1-1.2.1.jar)
+[22:37:14] [Render thread/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[22:37:15] [Render thread/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[22:37:17] [Render thread/INFO] [minecraft/RecipeManager]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[22:37:17] [Render thread/INFO] [minecraft/RecipeManager]: Loaded 29 recipes
+[22:37:18] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 4366 advancements
+[22:37:18] [Render thread/INFO] [to.th.cu.Curios/]: Loaded 18 curio slots
+[22:37:18] [Render thread/INFO] [to.th.cu.Curios/]: Loaded 9 curio entities
+[22:37:18] [Render thread/INFO] [Supplementaries/]: Loaded 27 flute songs
+[22:37:18] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23112!/:?] {}
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:moonlight.mixins.json:ConditionHackMixin from mod moonlight,pl:mixin:APP:fabric-resource-conditions-api-v1.mixins.json:SinglePreparationResourceReloaderMixin from mod fabric_resource_conditions_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:SimpleResourceReloadMixin from mod fabric_resource_loader_v0,pl:mixin:A,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:computing_frames,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.worldselection.CreateWorldScreen.m_232896_(CreateWorldScreen.java:131) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.m_233213_(WorldSelectionList.java:167) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.<init>(WorldSelectionList.java:93) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.SelectWorldScreen.m_7856_(SelectWorldScreen.java:54) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.Screen.m_6575_(Screen.java:321) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91152_(Minecraft.java:1007) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_279796_(TitleScreen.java:159) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.Button.m_5691_(Button.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractButton.m_5716_(AbstractButton.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractWidget.m_6375_(AbstractWidget.java:175) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.events.ContainerEventHandler.m_6375_(ContainerEventHandler.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:computing_frames,pl:connector_pre_launch:A,re:mixin,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_6375_(TitleScreen.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168084_(MouseHandler.java:92) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:437) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_91530_(MouseHandler.java:89) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168091_(MouseHandler.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.MouseHandler.m_91565_(MouseHandler.java:188) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%23111!/:build 7] {}
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3403) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:201) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:212) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:274) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1170) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-1.20.1-47.2.17.jar:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[22:37:19] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[22:37:19] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23112!/:?] {}
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:moonlight.mixins.json:ConditionHackMixin from mod moonlight,pl:mixin:APP:fabric-resource-conditions-api-v1.mixins.json:SinglePreparationResourceReloaderMixin from mod fabric_resource_conditions_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:SimpleResourceReloadMixin from mod fabric_resource_loader_v0,pl:mixin:A,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:computing_frames,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.worldselection.CreateWorldScreen.m_232896_(CreateWorldScreen.java:131) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.m_233213_(WorldSelectionList.java:167) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.<init>(WorldSelectionList.java:93) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.SelectWorldScreen.m_7856_(SelectWorldScreen.java:54) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.Screen.m_6575_(Screen.java:321) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91152_(Minecraft.java:1007) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_279796_(TitleScreen.java:159) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.Button.m_5691_(Button.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractButton.m_5716_(AbstractButton.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractWidget.m_6375_(AbstractWidget.java:175) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.events.ContainerEventHandler.m_6375_(ContainerEventHandler.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:computing_frames,pl:connector_pre_launch:A,re:mixin,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_6375_(TitleScreen.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168084_(MouseHandler.java:92) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:437) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_91530_(MouseHandler.java:89) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168091_(MouseHandler.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.MouseHandler.m_91565_(MouseHandler.java:188) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%23111!/:build 7] {}
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3403) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:201) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:212) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:274) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1170) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-1.20.1-47.2.17.jar:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[22:37:19] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[22:37:19] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23112!/:?] {}
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$7.decode(RecordCodecBuilder.java:406) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:moonlight.mixins.json:ConditionHackMixin from mod moonlight,pl:mixin:APP:fabric-resource-conditions-api-v1.mixins.json:SinglePreparationResourceReloaderMixin from mod fabric_resource_conditions_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:SimpleResourceReloadMixin from mod fabric_resource_loader_v0,pl:mixin:A,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:computing_frames,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.worldselection.CreateWorldScreen.m_232896_(CreateWorldScreen.java:131) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.m_233213_(WorldSelectionList.java:167) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.<init>(WorldSelectionList.java:93) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.SelectWorldScreen.m_7856_(SelectWorldScreen.java:54) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.Screen.m_6575_(Screen.java:321) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91152_(Minecraft.java:1007) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_279796_(TitleScreen.java:159) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.Button.m_5691_(Button.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractButton.m_5716_(AbstractButton.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractWidget.m_6375_(AbstractWidget.java:175) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.events.ContainerEventHandler.m_6375_(ContainerEventHandler.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:computing_frames,pl:connector_pre_launch:A,re:mixin,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_6375_(TitleScreen.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168084_(MouseHandler.java:92) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:437) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_91530_(MouseHandler.java:89) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168091_(MouseHandler.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.MouseHandler.m_91565_(MouseHandler.java:188) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%23111!/:build 7] {}
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3403) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:201) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:212) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:274) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1170) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-1.20.1-47.2.17.jar:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[22:37:19] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Could not decode GlobalLootModifier with json id miners_delight:scavenging_tentacles - error: Unknown type 'alternative'
+[22:37:19] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23112!/:?] {}
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23112!/:?] {}
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23141!/:?] {}
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.2.17-universal.jar%23321!/:?] {re:classloading}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:moonlight.mixins.json:ConditionHackMixin from mod moonlight,pl:mixin:APP:fabric-resource-conditions-api-v1.mixins.json:SinglePreparationResourceReloaderMixin from mod fabric_resource_conditions_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:classloading,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:SimpleResourceReloadMixin from mod fabric_resource_loader_v0,pl:mixin:A,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,re:computing_frames,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.worldselection.CreateWorldScreen.m_232896_(CreateWorldScreen.java:131) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.m_233213_(WorldSelectionList.java:167) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList.<init>(WorldSelectionList.java:93) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.worldselection.SelectWorldScreen.m_7856_(SelectWorldScreen.java:54) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.Screen.m_6575_(Screen.java:321) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91152_(Minecraft.java:1007) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_279796_(TitleScreen.java:159) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.Button.m_5691_(Button.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractButton.m_5716_(AbstractButton.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.AbstractWidget.m_6375_(AbstractWidget.java:175) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.components.events.ContainerEventHandler.m_6375_(ContainerEventHandler.java:38) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:computing_frames,pl:connector_pre_launch:A,re:mixin,pl:connector_pre_launch:A,re:classloading,pl:connector_pre_launch:A}
+	at net.minecraft.client.gui.screens.TitleScreen.m_6375_(TitleScreen.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:aether.mixins.json:client.TitleScreenMixin from mod aether,pl:mixin:APP:aether.mixins.json:client.accessor.TitleScreenAccessor from mod aether,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.TitleScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168084_(MouseHandler.java:92) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:437) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenMixin from mod fabric_screen_api_v1,pl:mixin:APP:aether.mixins.json:client.accessor.ScreenAccessor from mod aether,pl:mixin:APP:balm.mixins.json:ScreenAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1,pl:mixin:APP:patchouli_xplat.mixins.json:client.AccessorScreen from mod patchouli,pl:mixin:APP:cumulus_menus.mixins.json:client.accessor.ScreenAccessor from mod cumulus_menus,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_91530_(MouseHandler.java:89) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHandler.m_168091_(MouseHandler.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:connector_pre_launch:A}
+	at net.minecraft.client.MouseHandler.m_91565_(MouseHandler.java:188) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:balm.mixins.json:MouseHandlerAccessor from mod balm,pl:mixin:APP:fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1,pl:mixin:APP:supplementaries-common.mixins.json:MouseHandlerMixin from mod supplementaries,pl:mixin:APP:okzoomer.mixins.json:MouseHandlerMixin from mod okzoomer,pl:mixin:APP:creativecore.mixins.json:MouseHandlerAccessor from mod creativecore,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%23111!/:build 7] {}
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3403) ~[lwjgl-glfw-3.3.1.jar%23155!/:build 7] {}
+	at com.mojang.blaze3d.systems.RenderSystem.pollEvents(RenderSystem.java:201) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(RenderSystem.java:212) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:274) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1170) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23316!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-1.20.1-47.2.17.jar:?] {re:classloading,pl:connector_pre_launch:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.17.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?] {}
+[22:37:19] [Render thread/WARN] [ne.mi.co.lo.LootModifierManager/]: Could not decode GlobalLootModifier with json id miners_delight:scavenging_silverfish - error: Unknown type 'alternative'
+[22:37:29] [Render thread/INFO] [Supplementaries/]: Finished additional setup in 42 ms
+[22:37:29] [Render thread/INFO] [Moonlight/]: Applied 7 data villager trades
+[22:38:29] [Render thread/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[22:38:29] [Render thread/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
+[22:38:29] [Render thread/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 10 ms
+[22:38:29] [Render thread/INFO] [fr.ra.fa.co.ne.PacketUtils/]: Disconnected from server, resetting proxy config values
+[22:38:30] [Server thread/INFO] [minecraft/IntegratedServer]: Starting integrated minecraft server version 1.20.1
+[22:38:30] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\lost_aether_content-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Animal Tweaks was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Animal Tweaks.mutation_wing_colors was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Animal Tweaks.mutation_animal_sounds was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\apoli-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key execute_command was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key execute_command.permission_level was corrected from null to its default, 2. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key execute_command.show_output was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key prevent_usage was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key prevent_usage.enforce_food_restrictions was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key modify_player_spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key modify_player_spawn.separate_finding_thread was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\curios-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key keepCurios was corrected from null to its default, DEFAULT. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\paraglider-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key ascendingWinds was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key windSources was corrected from null to its default, [fire, soul_fire, campfire#lit=true, soul_campfire#lit=true]. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key paraglidingSpeed was corrected from null to its default, 1.0. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key paragliderDurability was corrected from null to its default, 0. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs.enderDragonDropsVessel was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs.raidGivesVessel was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs.spawnerSpiritOrbDrops was corrected from null to its default, 2. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs.spiritOrbLoots was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key vessels was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key vessels.startingHearts was corrected from null to its default, 10. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key vessels.maxHeartContainers was corrected from null to its default, 20. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key vessels.maxStamina was corrected from null to its default, 3000. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key vessels.startingStamina was corrected from null to its default, 1000. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key vessels.maxStaminaVessels was corrected from null to its default, 10. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key stamina was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key stamina.paraglidingConsumesStamina was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key stamina.runningAndSwimmingConsumesStamina was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key paragliderInTowersOfTheWild was corrected from null to its default, DEFAULT. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\aether-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Beds explode was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Debuff non-Aether tools was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Ambrosium Shards are edible was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Berry Bush consistency was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Crystal Fruit Leaves consistency was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Gummy Swets restore health was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Maximum consumable Life Shards was corrected from null to its default, 10. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Cooldown for the Hammer of Kingbdogz projectile was corrected from null to its default, 50. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Cooldown for the Cloud Staff was corrected from null to its default, 40. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Gameplay.Require gloves for set abilities was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Loot was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Loot.Golden Feather in loot was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Loot.Valkyrie Cape in loot was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key World Generation was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key World Generation.Generate Tall Grass in the Aether was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key World Generation.Generate Holiday Trees always was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key World Generation.Generate Holiday Trees seasonally was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Multiplayer was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Multiplayer.Balance Invisibility Cloak for PVP was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Multiplayer.Invisibility Cloak visibility timer was corrected from null to its default, 50. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Multiplayer.Only whitelisted users access Sun Altars was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Modpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Modpack.Spawns the player in the Aether was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Modpack.Disables Aether Portal creation was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Modpack.Disables falling into the Overworld was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Modpack.Disables eternal day was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Modpack.Sets portal destination dimension was corrected from null to its default, aether:the_aether. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key Modpack.Sets portal return dimension was corrected from null to its default, minecraft:overworld. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\pehkui-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.base was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.base.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.base.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.width.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.height.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.eye_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.eye_height.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.eye_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_width.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_height.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.hitbox_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_width.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.interaction_box_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_width.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.model_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.third_person was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.third_person.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.third_person.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.motion was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.motion.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.motion.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.falling was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.falling.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.falling.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.step_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.step_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.step_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.view_bobbing was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.view_bobbing.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.view_bobbing.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.visibility was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.visibility.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.visibility.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.jump_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.jump_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.jump_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.flight was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.flight.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.flight.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.block_reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.block_reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.block_reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.entity_reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.entity_reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.entity_reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.mining_speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.mining_speed.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.mining_speed.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack_speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack_speed.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack_speed.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.knockback was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.knockback.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.knockback.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.attack.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.defense was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.defense.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.defense.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.health was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.health.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.health.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.drops was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.drops.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.drops.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.held_item was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.held_item.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.held_item.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.projectiles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.projectiles.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.projectiles.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.explosions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.explosions.minimum was corrected from null to its default, 1.401298464324817E-45. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.scale_limits.explosions.maximum was corrected from null to its default, 3.4028234663852886E38. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\journeymap-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key admins was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key admins.opAccess was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key admins.serverAdmins was corrected from null to its default, [mysticdrew, 79f597fe-2877-4ecb-acdf-8c58cc1854ca]. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\okzoomer-sever.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key allow_zoom was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key disable_zoom_scrolling was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key force_classic_mode was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key minimum_zoom_divisor was corrected from null to its default, 1.0. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key maximum_zoom_divisor was corrected from null to its default, 50.0. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key spyglass_dependency was corrected from null to its default, OFF. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key zoom_overlay was corrected from null to its default, OFF. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\forge-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\gravestone-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key enable_obituary was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key replaceable_blocks was corrected from null to its default, [#gravestone:grave_replaceable]. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key remove_obituary was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key only_owners_can_break was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key spawn_ghost was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key friendly_ghost was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key sneak_pickup was corrected from null to its default, false. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key break_pickup was corrected from null to its default, true. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\sit-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key block_reach_distance was corrected from null to its default, 4. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Configuration file C:\Users\{COMPUTER_USERNAME}\AppData\Roaming\com.modrinth.theseus\profiles\Progression Minecraft\saves\Testing Your Mum\serverconfig\apugli-server.toml is not correct. Correcting
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key hitsOnTarget was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:38:31] [Server thread/WARN] [ne.mi.co.ForgeConfigSpec/CORE]: Incorrect key hitsOnTarget.resetTimerTicks was corrected from null to its default, 100. 
+[22:38:32] [Server thread/INFO] [Framework/]: Loading server configs...
+[22:38:36] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:38:36] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:38:36] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem aether:the_aether
+[22:40:23] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:30] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:30] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:30] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:31] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:31] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:32] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:32] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:33] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:33] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:34] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:34] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:35] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:35] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[22:40:36] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 1%
+[22:40:36] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 1%
+[22:40:37] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:41] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:41] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[22:40:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:49] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:49] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:50] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:50] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:51] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 3%
+[22:40:51] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:40:57] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 4%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:03] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:03] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:04] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:04] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:05] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:05] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:06] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:06] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 5%
+[22:41:07] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 6%
+[22:41:12] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 7%
+[22:41:12] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 7%
+[22:41:13] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 8%
+[22:41:15] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:15] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:15] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:15] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:15] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:16] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:16] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:17] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:17] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 9%
+[22:41:18] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 10%
+[22:41:18] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 10%
+[22:41:19] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 10%
+[22:41:19] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 11%
+[22:41:20] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 11%
+[22:41:20] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 12%
+[22:41:21] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 12%
+[22:41:21] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 13%
+[22:41:22] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 13%
+[22:41:22] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 13%
+[22:41:23] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 14%
+[22:41:23] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 15%
+[22:41:24] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 15%
+[22:41:24] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 15%
+[22:41:25] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 16%
+[22:41:25] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 16%
+[22:41:28] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 16%
+[22:41:28] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 16%
+[22:41:28] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 16%
+[22:41:28] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 16%
+[22:41:28] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 16%
+[22:41:28] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 17%
+[22:41:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 18%
+[22:41:29] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 19%
+[22:41:30] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 19%
+[22:41:31] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 20%
+[22:41:31] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 20%
+[22:41:31] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 21%
+[22:41:32] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 22%
+[22:41:32] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 22%
+[22:41:34] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 23%
+[22:41:34] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 23%
+[22:41:35] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 23%
+[22:41:35] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 23%
+[22:41:35] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 23%
+[22:41:35] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 24%
+[22:41:36] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 25%
+[22:41:36] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 26%
+[22:41:38] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 27%
+[22:41:38] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 27%
+[22:41:38] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 27%
+[22:41:38] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 28%
+[22:41:39] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 29%
+[22:41:39] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 30%
+[22:41:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 31%
+[22:41:40] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 32%
+[22:41:41] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 32%
+[22:41:41] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 33%
+[22:41:42] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 34%
+[22:41:42] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 34%
+[22:41:43] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 35%
+[22:41:43] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 36%
+[22:41:44] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 37%
+[22:41:44] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 38%
+[22:41:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 39%
+[22:41:45] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 39%
+[22:41:46] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 40%
+[22:41:46] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 40%
+[22:41:47] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 42%
+[22:41:47] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 42%
+[22:41:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 42%
+[22:41:48] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 43%
+[22:41:49] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 44%
+[22:41:49] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 45%
+[22:41:50] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 46%
+[22:41:50] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 48%
+[22:41:51] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 49%
+[22:41:51] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 50%
+[22:41:52] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 51%
+[22:41:52] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 52%
+[22:41:53] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 54%
+[22:41:53] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 55%
+[22:41:54] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 55%
+[22:41:54] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 56%
+[22:41:55] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 56%
+[22:41:55] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 57%
+[22:41:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 57%
+[22:41:56] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 58%
+[22:41:57] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 59%
+[22:41:57] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 61%
+[22:41:58] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 62%
+[22:41:58] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 62%
+[22:41:59] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 63%
+[22:41:59] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 64%
+[22:42:00] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 64%
+[22:42:00] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 65%
+[22:42:01] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 66%
+[22:42:01] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 67%
+[22:42:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 68%
+[22:42:02] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 69%
+[22:42:04] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 70%
+[22:42:04] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 70%
+[22:42:04] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 70%
+[22:42:04] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 70%
+[22:42:05] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 70%
+[22:42:05] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 72%
+[22:42:06] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a DUMMY block entity @ BlockPos{x=-133, y=44, z=28} but found not block entity block Block{minecraft:water}[level=2] at location
+[22:42:06] [Server thread/WARN] [minecraft/LevelChunk]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-133, y=44, z=28}
+[22:42:06] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 74%
+[22:42:06] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 75%
+[22:42:09] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 75%
+[22:42:09] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 75%
+[22:42:09] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 75%
+[22:42:09] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 75%
+[22:42:09] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 75%
+[22:42:09] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 76%
+[22:42:10] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 78%
+[22:42:10] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 79%
+[22:42:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 80%
+[22:42:11] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 80%
+[22:42:12] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 82%
+[22:42:12] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 83%
+[22:42:13] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 84%
+[22:42:14] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 85%
+[22:42:14] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 85%
+[22:42:14] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 85%
+[22:42:15] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 86%
+[22:42:15] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 88%
+[22:42:16] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 89%
+[22:42:16] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 90%
+[22:42:17] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 91%
+[22:42:17] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 92%
+[22:42:18] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 93%
+[22:42:18] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 94%
+[22:42:19] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 95%
+[22:42:19] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 95%
+[22:42:20] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 95%
+[22:42:20] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 97%
+[22:42:21] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 97%
+[22:42:21] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 98%
+[22:42:22] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 99%
+[22:42:22] [Server thread/INFO] [ne.mi.se.pe.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22:42:22] [Render thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 119142 ms
+[22:42:22] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[22:42:23] [Server thread/INFO] [minecraft/IntegratedServer]: Changing view distance to 8, from 10
+[22:42:23] [Server thread/INFO] [minecraft/IntegratedServer]: Changing simulation distance to 8, from 0
+[22:42:23] [Render thread/WARN] [io.ne.ut.in.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[22:42:25] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean]] from pos BlockPos{x=69, y=67, z=69}
+[22:42:25] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[22:42:25] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22:42:27] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22:42:31] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22:42:36] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22:42:37] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22:42:37] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22:42:37] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22:42:37] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22:42:37] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22:42:37] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22:42:38] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22:42:38] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22:42:38] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22:42:38] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22:42:38] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22:42:38] [Netty Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22:42:39] [Netty Local Client IO #0/INFO] [ne.mi.ne.NetworkHooks/]: Connected to a modded server.
+[22:42:39] [Server thread/WARN] [minecraft/SynchedEntityData]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[22:42:39] [Server thread/INFO] [minecraft/PlayerList]: {MINECRAFT_USERNAME}[local:E:4e1854f8] logged in with entity id 143 at (-8.5, 79.0, 7.5)
+[22:42:39] [Netty Local Client IO #0/INFO] [Calio/]: CDRM Initialized with 16 registries
+[22:42:39] [Render thread/INFO] [Supplementaries/]: Synced Flute Songs
+[22:42:39] [Render thread/INFO] [Supplementaries/]: Synced Captured Mobs settings
+[22:42:39] [Render thread/INFO] [Supplementaries/]: Synced Globe data
+[22:42:39] [Render thread/INFO] [Supplementaries/]: Synced Hourglass data
+[22:42:39] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: divinerpg:arcanium_extractor/divinerpg:arcanium_extractor/piece_of_raw_arcanium
+[22:42:39] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:purple_squash_from_blue_squash
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:quicksoil_from_poison
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:purple_squash_from_green_squash
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:holystone_from_poison
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: divinerpg:arcanium_extractor/divinerpg:arcanium_extractor/arcanite_sand
+[22:42:40] [Server thread/INFO] [minecraft/MinecraftServer]: {MINECRAFT_USERNAME} joined the game
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:skyroot_poison_bucket_from_poison
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:blueberry_from_poison
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:gravitite_ore_from_poison
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: divinerpg:arcanium_extractor/divinerpg:arcanium_extractor/arcanium
+[22:42:40] [Render thread/WARN] [minecraft/ClientRecipeBook]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:golden_dart_from_poison
+[22:42:40] [Server thread/INFO] [fr.ra.fa.fo.ne.PlayerJoinListener/]: Player connected to a local world, not setting up proxy config
+[22:42:41] [Render thread/INFO] [Moonlight/]: Synced supplementaries-common.toml configs
+[22:42:41] [Render thread/INFO] [Ok Zoomer/]: This server acknowledges the mod and establishes no restrictions
+[22:42:43] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 54 advancements
+[22:42:43] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 1.427 ms
+[22:42:43] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 1.404 ms
+[22:42:43] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 1.195 ms
+[22:42:43] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 113.8 ?s
+[22:42:43] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 122.9 ?s
+[22:42:43] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 83.50 ?s
+[22:42:43] [Render thread/WARN] [patchouli/]: Recipe divinerpg:shapeless/densos_crystal_shapeless (of type minecraft:crafting) not found
+[22:42:43] [Render thread/WARN] [patchouli/]: Recipe divinerpg:shapeless/karot_crystal_shapeless (of type minecraft:crafting) not found
+[22:42:43] [Render thread/WARN] [patchouli/]: Recipe divinerpg:shapeless/reyvor_crystal_shapeless (of type minecraft:crafting) not found
+[22:42:43] [Render thread/WARN] [patchouli/]: Recipe divinerpg:shapeless/soul_fiend_crystal_shapeless (of type minecraft:crafting) not found
+[22:42:43] [Render thread/WARN] [patchouli/]: Recipe divinerpg:shapeless/twilight_demon_crystal_shapeless (of type minecraft:crafting) not found
+[22:42:43] [Render thread/WARN] [patchouli/]: Recipe divinerpg:shapeless/vamacheron_crystal_shapeless (of type minecraft:crafting) not found
+[22:42:44] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] JourneyMap: Press [J]
+[22:42:45] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 70 advancements
+[22:42:45] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[22:42:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:overworld
+[22:42:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:arcana
+[22:42:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:vethea
+[22:42:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:the_end
+[22:42:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:eden
+[22:42:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:mortum
+[22:42:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/deeperdarker:otherside
+[22:42:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:the_nether
+[22:42:49] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:apalachia
+[22:42:49] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:skythern
+[22:42:49] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:wildwood
+[22:42:49] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:iceika
+[22:42:49] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/aether:the_aether
+[22:42:50] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 6727ms or 134 ticks behind
+[22:43:19] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 78 advancements
+[22:43:20] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 83 advancements
+[22:43:20] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 84 advancements
+[22:43:21] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 89 advancements
+[22:43:21] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 90 advancements
+[22:43:22] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 95 advancements
+[22:43:23] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 18023ms or 360 ticks behind
+[22:43:24] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 117 advancements
+[22:43:28] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 119 advancements
+[22:43:30] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancements
+[22:43:41] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 3701ms or 74 ticks behind
+[22:44:04] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 8104ms or 162 ticks behind
+[22:44:20] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 141 advancements
+[22:44:23] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[22:44:40] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 141 advancements
+[22:44:45] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22:44:51] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 144 advancements
+[22:44:52] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 145 advancements
+[22:44:54] [Server thread/INFO] [minecraft/MinecraftServer]: {MINECRAFT_USERNAME} has made the advancement [Ice Bucket Challenge]
+[22:44:54] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] {MINECRAFT_USERNAME} has made the advancement [Ice Bucket Challenge]
+[22:44:54] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 163 advancements
+[22:44:56] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 167 advancements
+[22:44:57] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 168 advancements
+[22:45:42] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 168 advancements
+[22:45:48] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:46:10] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 168 advancements
+[22:47:31] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22:47:36] [Render thread/INFO] [minecraft/AdvancementList]: Loaded 197 advancements
+[22:47:45] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:overworld
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:arcana
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:vethea
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:the_end
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:eden
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:mortum
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/deeperdarker:otherside
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:the_nether
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:apalachia
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:skythern
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:wildwood
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:iceika
+[22:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/aether:the_aether
+[22:47:46] [Render thread/INFO] [fr.ra.fa.co.ne.PacketUtils/]: Disconnected from server, resetting proxy config values
+[22:47:47] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: {MINECRAFT_USERNAME} lost connection: Disconnected
+[22:47:47] [Server thread/INFO] [minecraft/MinecraftServer]: {MINECRAFT_USERNAME} left the game
+[22:47:47] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Stopping singleplayer server as player logged out
+[22:47:47] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[22:47:47] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[22:47:47] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[22:47:49] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:overworld
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:arcana
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:vethea
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:the_end
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:eden
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:mortum
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/deeperdarker:otherside
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/minecraft:the_nether
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:apalachia
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:skythern
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:wildwood
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/divinerpg:iceika
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[Testing Your Mum]'/aether:the_aether
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (Testing Your Mum): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (arcana): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (vethea): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (eden): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (mortum): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (apalachia): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (skythern): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (wildwood): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (iceika): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22:48:26] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:48:45] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22:48:45] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.client.server.IntegratedServer@6278d1b4
+[22:49:03] [Render thread/INFO] [minecraft/Minecraft]: Stopping!
+[22:49:09] [Render thread/INFO] [fr.ra.fa.co.ne.PacketUtils/]: Disconnected from server, resetting proxy config values

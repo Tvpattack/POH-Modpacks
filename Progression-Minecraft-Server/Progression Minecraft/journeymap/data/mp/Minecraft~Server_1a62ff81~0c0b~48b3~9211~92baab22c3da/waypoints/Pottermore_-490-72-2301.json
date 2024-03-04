@@ -1,0 +1,24 @@
+{
+  "id": "Pottermore_-490-72-2301",
+  "name": "Pottermore",
+  "groupName": ":Waystones",
+  "displayId": "6063410a-1ffe-4952-858a-18b3b2c91e86",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -490,
+  "y": 72,
+  "z": -2301,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

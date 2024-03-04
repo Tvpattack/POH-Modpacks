@@ -1,0 +1,24 @@
+{
+  "id": "Ithian-Citadel-Entrance_-221-74-1181",
+  "name": "Ithian Citadel Entrance",
+  "groupName": ":Waystones",
+  "displayId": "0f6b3608-e532-4da2-89ee-02d5113b71ce",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -221,
+  "y": 74,
+  "z": -1181,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

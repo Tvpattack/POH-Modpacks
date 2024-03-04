@@ -1,0 +1,24 @@
+{
+  "id": "Imperial-Ithian-Citadel_-119-130-1184",
+  "name": "Imperial Ithian Citadel",
+  "groupName": ":Waystones",
+  "displayId": "ea41d4eb-23db-4375-9568-a70f3b69f41e",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -119,
+  "y": 130,
+  "z": -1184,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

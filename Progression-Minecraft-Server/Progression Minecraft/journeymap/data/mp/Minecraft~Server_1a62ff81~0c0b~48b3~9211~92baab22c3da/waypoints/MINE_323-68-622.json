@@ -1,0 +1,22 @@
+{
+  "id": "MINE_323-68-622",
+  "name": "MINE",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5137437-waypoint-icon.png",
+  "x": 323,
+  "y": 68,
+  "z": -622,
+  "r": 177,
+  "g": 155,
+  "b": 227,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
